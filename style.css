@@ -1,0 +1,117 @@
+*{
+    
+    font-family: Poppins, sans-serif;
+    overflow-x: hidden;
+}
+/* body{
+    width: 100%;
+} */
+html{
+    overflow-x: hidden;
+}
+
+.imagelogo{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 3rem;
+}
+.searchbut{
+    width: 30rem;
+}
+.navbarright{
+    margin-left: 2rem;
+}
+.profile{
+    border-radius: 10rem;
+    height: 2.5rem;
+    width: 2.5rem;
+   
+}
+.wallet{
+    border-radius: 10rem;
+    height: 2.5rem;
+    width: 2.5rem;
+   
+}
+#b1explore{
+    background-color:#2081e2;
+    border-radius: 10px;
+    padding: 15px;
+    width: 150px;
+    border: 0;
+    color: white;
+    font-size: medium;
+    margin-top: 20px;
+}
+#b2create{
+    background-color: transparent;
+    border-radius: 10px;
+   padding: 15px;
+   width: 150px;
+   border: solid 1px #2081e2;
+   margin-left: 10px;
+   color: #2081e2;
+   font-size: medium;
+   margin-top: 20px;
+}
+.para1{
+    font-size: 24px;
+}
+.image2{
+    background-image: url(./assets/home-banner.webp);
+    background-repeat: no-repeat;
+    width:100%;
+    object-fit: cover;
+    height: 8.1rem;
+}
+.b3explore{
+    background-color:#2081e2;
+    border-radius: 10px;
+    width: 150px;
+    border: 0;
+    color: white;
+    font-size: medium;
+   
+}
+.card2image{
+
+}
+.footer{
+    width: 100vw;
+    height: 30rem;
+    background-color: #1868b7;
+}
+#instalogo{
+    width:2rem;
+    height: 2rem;
+    border: 10rem
+    color white  
+}
+#fblogo{
+    width:2rem;
+    height: 2rem;
+    border: 10rem
+    color white  
+}
+#wtsplogo{
+    width:2rem;
+    height: 2rem;
+    border: 10rem
+    color white  
+}
+#twitterlogo{
+    width:2rem;
+    height: 2rem;
+    border: 10rem
+    color white  
+}
+#youtubelogo{
+    width:2rem;
+    height: 2rem;
+    border: 10rem
+    color white  
+}
+.finallogo{
+    width: 3rem;
+    height:3rem;
+}
